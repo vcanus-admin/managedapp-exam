@@ -1,0 +1,13 @@
+﻿  CLRPrj.cpp
+\\vmware-host\Shared Folders\Documents\workspace_vs\ManagedApp\MfcExtPrj\ClassMfc.h(3): error C2079: 'ClassMfc'은(는) 정의되지 않은 class 'AFX_EXT_CLASS'을(를) 사용합니다.
+\\vmware-host\Shared Folders\Documents\workspace_vs\ManagedApp\MfcExtPrj\ClassMfc.h(4): error C2059: 구문 오류: 'public'
+\\vmware-host\Shared Folders\Documents\workspace_vs\ManagedApp\MfcExtPrj\ClassMfc.h(6): error C2588: '::~ClassMfc': 잘못된 전역 소멸자입니다.
+\\vmware-host\Shared Folders\Documents\workspace_vs\ManagedApp\MfcExtPrj\ClassMfc.h(6): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+\\vmware-host\Shared Folders\Documents\workspace_vs\ManagedApp\MfcExtPrj\ClassMfc.h(6): error C2365: 'ClassMfc': 재정의: 이전 정의는 '데이터 변수'입니다.
+  \\vmware-host\Shared Folders\Documents\workspace_vs\ManagedApp\MfcExtPrj\ClassMfc.h(2): note: 'ClassMfc' 선언을 참조하십시오.
+\\vmware-host\Shared Folders\Documents\workspace_vs\ManagedApp\MfcExtPrj\ClassMfc.h(7): error C2059: 구문 오류: 'public'
+\\vmware-host\Shared Folders\Documents\workspace_vs\ManagedApp\MfcExtPrj\ClassMfc.h(9): error C2059: 구문 오류: '}'
+\\vmware-host\Shared Folders\Documents\workspace_vs\ManagedApp\MfcExtPrj\ClassMfc.h(9): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
+\\vmware-host\Shared Folders\Documents\workspace_vs\ManagedApp\CLRPrj\CLRPrj.h(12): error C3646: 'classMfc': 알 수 없는 재정의 지정자입니다.
+\\vmware-host\Shared Folders\Documents\workspace_vs\ManagedApp\CLRPrj\CLRPrj.h(12): error C2059: 구문 오류: '='
+\\vmware-host\Shared Folders\Documents\workspace_vs\ManagedApp\CLRPrj\CLRPrj.h(12): error C2238: ';' 앞에 예기치 않은 토큰이 있습니다.
