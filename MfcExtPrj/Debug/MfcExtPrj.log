@@ -1,4 +1,7 @@
-﻿  ClassMfc.cpp
+﻿  pch.cpp
+  ClassMfc.cpp
+  MfcExtPrj.cpp
+  코드를 생성하고 있습니다...
   dllmain.cpp
-     \\vmware-host\Shared Folders\Documents\workspace_vs\ManagedApp\Debug\MfcExtPrj.lib 라이브러리 및 \\vmware-host\Shared Folders\Documents\workspace_vs\ManagedApp\Debug\MfcExtPrj.exp 개체를 생성하고 있습니다.
-  MfcExtPrj.vcxproj -> \\vmware-host\Shared Folders\Documents\workspace_vs\ManagedApp\Debug\MfcExtPrj.dll
+     C:\Users\sglee\Documents\workspace\vstudio\solution\ManagedApp\Debug\MfcExtPrj.lib 라이브러리 및 C:\Users\sglee\Documents\workspace\vstudio\solution\ManagedApp\Debug\MfcExtPrj.exp 개체를 생성하고 있습니다.
+  MfcExtPrj.vcxproj -> C:\Users\sglee\Documents\workspace\vstudio\solution\ManagedApp\Debug\MfcExtPrj.dll

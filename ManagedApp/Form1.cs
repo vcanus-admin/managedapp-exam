@@ -18,21 +18,23 @@ namespace ManagedApp
         {
             InitializeComponent();
 
+            clr = new ClassCLR();
+
             timer1.Start();
         }
 
-        private ClassCLR clr = new ClassCLR();
+        private ClassCLR clr;
 
         private int num = 0;
         private void Timer1_Tick(object sender, EventArgs e)
         {
-            
+
             textBox1.Text = clr.getNumber(num).ToString();
 
             //            Debug.WriteLine(num);
 
             num++;
-            if(num > 100)
+            if (num > 100)
             {
                 num = 0;
             }

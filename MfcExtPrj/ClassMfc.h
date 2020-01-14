@@ -1,5 +1,6 @@
 #pragma once
-class ClassMfc
+class __declspec(dllexport) ClassMfc
+//class ClassMfc
 {
 public:
 	ClassMfc();
